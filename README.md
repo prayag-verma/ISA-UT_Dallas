@@ -7,24 +7,24 @@ The ISA Officer's Management System is a role-based access control platform deve
 
 #Features
 
-#Multi-Role Access Control: Supports various user roles (e.g., Admin, Officer, Volunteer) with permission-based access to different features.
+Multi-Role Access Control: Supports various user roles (e.g., Admin, Officer, Volunteer) with permission-based access to different features.
 
-#User Management: Add, edit, or remove users; assign roles and permissions; and manage officer points and service status.
+User Management: Add, edit, or remove users; assign roles and permissions; and manage officer points and service status.
 
-#Content Management: Control the main page sections, including events, resources, and gallery updates.
+Content Management: Control the main page sections, including events, resources, and gallery updates.
 
-#Messaging: Facilitate message exchanges within the platform, with options for message export and deletion.
+Messaging: Facilitate message exchanges within the platform, with options for message export and deletion.
 
-#Settings and Customization: Configure system-wide settings, manage user roles, and update content dynamically.
+Settings and Customization: Configure system-wide settings, manage user roles, and update content dynamically.
 
-#Installation
+Installation
 
-#Prerequisites
+Prerequisites
 PHP (version 7.4 or higher recommended)
 MySQL Database
 Web server (e.g., cPanel, Apache, Nginx)
 
-#Setup
+Setup
 
 1. Clone the repository:
 https://github.com/prayag-verma/ISA-UT_Dallas.git
@@ -46,7 +46,7 @@ define('DB_USER', 'prayag_bd_user');
 define('DB_PASS', 'Admin@123');
 define('DB_NAME', 'prayag_isa_db');
 
-#Replace with your database credentials.
+Replace with your database credentials.
 define('DB_HOST', 'your_database_host');
 define('DB_USER', 'your_database_user');
 define('DB_PASS', 'your_database_password');
@@ -54,36 +54,36 @@ define('DB_NAME', 'your_database_name');
 
 5. Start your web server and open the project in a browser.
 
-#Usage:
+Usage:
 
 Admin Access: Login as an admin to manage users, permissions, and settings.
 Officer Access: Officers can view profiles, update selected information, and communicate through messages.
 Volunteer Access: Limited access for volunteers to specific resources and content.
 Any other user: You can grant/revoke permission to any individual role or an specific user.
 
-#Public Use:
+Public Use:
 
 This project is open-source and available for public use. Please feel free to fork, modify, and use it as per the terms.
 
-#Author and Ownership:
+Author and Ownership:
 
-#Author: Prayag Verma
-#Owner: [International Student Association, UT Dallas]
-#Developer(s): [Prayag Verma]
-#Contact: prayag@aimtocode.com / 
-#linkedin: https://www.linkedin.com/in/prayagv
-#profile: https://profile.aimtocode.com
+Author: Prayag Verma
+Owner: [International Student Association, UT Dallas]
+Developer(s): [Prayag Verma]
+Contact: prayag@aimtocode.com / 
+linkedin: https://www.linkedin.com/in/prayagv
+profile: https://profile.aimtocode.com
 
-#Versioning:
+Versioning:
 The project uses Semantic Versioning:
 
 Version 1.0.0 - Initial release
 
-#Security Policy:
+Security Policy:
 
 If you find any security vulnerabilities, please report them by contacting [prayag@aimtocode.com]. Your feedback and reports help improve the system's integrity.
 
-#Contributions
+Contributions
 I welcome contributions! To contribute:
 
 1. Fork the repository.
