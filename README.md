@@ -93,5 +93,7 @@ I welcome contributions! To contribute:
 5. Open a pull request.
 
 Thank you for using and contributing to the ISA Officer Management System!
+Prayag Verma
+https://profile.aimtocode.com
 
-: )
+:)
