@@ -118,7 +118,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 For any questions or inquiries, feel free to reach out:
 
 - **Name**: Prayag Verma
-- **LinkedIn**: [/prayagv](https://www.linkedin.com/in/your-profile)
+- **LinkedIn**: [/prayagv](https://www.linkedin.com/in/prayagv)
 - **Portfolio**: [aimtocode.com](https://profile.aimtocode.com/)
 
 
